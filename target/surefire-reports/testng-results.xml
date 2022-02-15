@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="37" started-at="2022-02-15T20:20:51 IST" finished-at="2022-02-15T20:20:51 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="37" started-at="2022-02-15T20:20:51 IST" finished-at="2022-02-15T20:20:51 IST">
+      <class name="qaClickacademy.ecommerce.Clothing">
+        <test-method status="PASS" signature="GentsWear()[pri:0, instance:qaClickacademy.ecommerce.Clothing@1b68ddbd]" name="GentsWear" duration-ms="4" started-at="2022-02-15T20:20:51 IST" finished-at="2022-02-15T20:20:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GentsWear -->
+        <test-method status="PASS" signature="KidsWear()[pri:0, instance:qaClickacademy.ecommerce.Clothing@1b68ddbd]" name="KidsWear" duration-ms="0" started-at="2022-02-15T20:20:51 IST" finished-at="2022-02-15T20:20:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- KidsWear -->
+        <test-method status="PASS" signature="Ladieswear()[pri:0, instance:qaClickacademy.ecommerce.Clothing@1b68ddbd]" name="Ladieswear" duration-ms="0" started-at="2022-02-15T20:20:51 IST" finished-at="2022-02-15T20:20:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ladieswear -->
+      </class> <!-- qaClickacademy.ecommerce.Clothing -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
